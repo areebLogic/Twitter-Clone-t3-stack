@@ -9,7 +9,7 @@
 
 ## **How to Run Locally**
 
-To run the project locally, follow these steps:
+To run the project locally, follow these steps-
 
 * Clone the project `git clone https://github.com/areebLogic/Twitter-clone-t3`
 * Copy the contents of the .env.example file into a new file named .env, then replace the values with your own.
